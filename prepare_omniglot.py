@@ -16,6 +16,7 @@ import shutil
 import os
 
 from config import DATA_PATH
+# from .config import DATA_PATH
 from few_shot.utils import mkdir, rmdir
 
 
